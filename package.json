@@ -1,0 +1,28 @@
+{
+  "name": "mbotapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NinjaDev77/mbotapp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NinjaDev77/mbotapp/issues"
+  },
+  "homepage": "https://github.com/NinjaDev77/mbotapp#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "morgan": "^1.9.0",
+    "npm": "^5.6.0",
+    "start": "^5.1.0"
+  }
+}
